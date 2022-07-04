@@ -4,9 +4,6 @@ To Begin
 
 To get started
 ** cypress install ** (This will install the latest version of cypress on your machine)
-Download cypress
-Unzip cypress
-Finish installation
 
 To get the latest libraries
 ** npm install ** 
