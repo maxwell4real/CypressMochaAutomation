@@ -3,8 +3,7 @@ cypress, mocha, javascript
 To Begin
 
 To get started
-** cypress install **
-#This will install the latest version of cypress on your machine
+** cypress install ** (This will install the latest version of cypress on your machine)
 Download cypress
 Unzip cypress
 Finish installation
