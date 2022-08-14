@@ -1,5 +1,5 @@
 {
-  "testFiles": "**/*.spec.js",
+  "testFiles": "**/*.feature",
   "baseUrl": "http://automationpractice.com",
   "watchForFileChanges": false,
   "reporter": "cypress-multi-reporters",
